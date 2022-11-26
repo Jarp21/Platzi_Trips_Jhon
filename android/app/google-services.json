@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722341883692",
+    "project_id": "platzitrips-f8eb6",
+    "storage_bucket": "platzitrips-f8eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722341883692:android:da91e9361a11fb599ec689",
+        "android_client_info": {
+          "package_name": "com.example.platzi_trips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722341883692-saeakugsu815p7a7gf8bna2qf41cof4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByD8FqO2nf1e5675AVHFwrVhKD6p4Lv64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722341883692-saeakugsu815p7a7gf8bna2qf41cof4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
