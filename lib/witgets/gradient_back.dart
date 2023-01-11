@@ -4,7 +4,7 @@ class GradientBack extends StatelessWidget {
 
 
   String title = "Popular";
-  var height;
+  double height;
 
   GradientBack(this.title, this.height);
 
